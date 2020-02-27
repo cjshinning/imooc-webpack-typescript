@@ -1,0 +1,30 @@
+{
+  "name": "imooc-webpack-typescript",
+  "version": "1.0.0",
+  "description": "learning typescript package",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cjshinning/imooc-webpack-typescript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cjshinning/imooc-webpack-typescript/issues"
+  },
+  "homepage": "https://github.com/cjshinning/imooc-webpack-typescript#readme",
+  "devDependencies": {
+    "@types/lodash": "^4.14.149",
+    "ts-loader": "^6.2.1",
+    "typescript": "^3.8.2",
+    "webpack": "^4.41.6",
+    "webpack-cli": "^3.3.11"
+  },
+  "dependencies": {
+    "lodash": "^4.17.15"
+  }
+}
